@@ -1,0 +1,222 @@
+
+
+.main-index{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+}
+
+.main-champions{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+}
+
+.body-index{
+    background-image: url("YasuoxRiven.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.footer{
+    display: grid;
+    background-color: black;
+    color: white;
+    height: auto;
+}
+
+.body-omLeagueOfLegends{
+    background-image: url("Bilgewater.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.body-champions{
+    background-image: url("LeagueChamps.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.body-items{
+    background-image: url("Items.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.body-runes{
+    background-image: url("Runes.png");
+    background-color: #cccccc;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+.h3-items{
+    font-size: 300%;
+    width: 15%;
+    margin-top: auto;
+    text-align: center;
+    background-color: white;
+    border: 8px solid black;
+}
+
+.h2-items{
+    font-size: 150%;
+    width: 9%;
+    margin-left: 0px;
+    margin-top: -20px;
+    text-align: center;
+    background-color: white;
+    border: 5px solid black;
+}
+
+.h3-champions{
+    font-size: 200%;
+    margin-left: 300px;
+    margin-top: -50%;
+    background-color: plum;
+    border: 5px solid black;
+}
+
+.h3-runes{
+    font-size: 300%;
+    width: 15%;
+    margin-top: auto;
+    text-align: center;
+    background-color: white;
+    border: 8px solid black;
+}
+
+.h2-runes{
+    font-size: 150%;
+    width: 15%;
+    margin-left: 0px;
+    margin-top: -20px;
+    text-align: center;
+    background-color: white;
+    border: 5px solid black;
+}
+
+.h1-omLeagueOfLegends{
+    width: 33%;
+    background-color: white;
+    border: 5px solid black;
+    margin: auto;
+}
+
+.home{
+    margin-left: 83%;
+}
+
+.home2{
+    margin-top: -445px; 
+}
+
+.home-omLeagueOfLegends{
+    margin-left: 83%;
+}
+
+.home-omLeagueOfLegends2{
+    margin-top: -35px;
+}
+
+.home-champions{
+    margin-left: 1025px;
+}
+
+.home-champions2{
+    margin-top: auto;
+}
+
+.section-omLeagueOfLegends{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+}
+
+.suuuper-small-margin{
+    margin-top: 67px;
+}
+
+h1{
+    font-size: 250%;
+    text-align: center;
+}
+
+.a-champions{
+    display: grid;
+    font-size: 350%;
+    margin-top: 50px;
+    text-decoration: none;
+    color: black;
+    background-color: plum;
+    border: 8px solid black;
+}
+
+.img-champions{
+    border: 8px solid black;
+}
+
+.div-champions{
+    background-color: plum;
+    border: 5px solid black;
+    font-size: 130%;
+    width: 50%;
+}
+
+.huge-margin-bot{
+    margin-bottom: 400px;
+}
+
+h2{
+    font-size: 120%;
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    border: 5px solid black;
+}
+
+.a-index{
+    color: peru ;
+    margin-top: 350px;
+    text-decoration: none;
+    font-size: 150%;
+    background-color: white;
+    border: 5px solid black;
+}
+
+.a2-index{
+    color: mediumpurple;
+    text-decoration: none;
+    font-size: 250%;
+    background-color: white;
+    border: 5px solid black;
+}
+
+.a3-index{
+    margin-top: 100px;
+}
+
+.centered{
+    display: grid;
+    place-items: center;
+    text-align: center;   
+}
+
+.img-champions:hover{
+    transition-duration: 0.5s;
+    transform: scale(1.1);
+}
